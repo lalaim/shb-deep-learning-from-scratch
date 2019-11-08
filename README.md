@@ -1,1 +1,1 @@
-Test
+Deep Learning from Scratch Study Reference
