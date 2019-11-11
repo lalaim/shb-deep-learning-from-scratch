@@ -7,6 +7,6 @@ class Man:
     def goodbye(self):
         print("Bye" + self.name + "!")
 
-m = Man("Working on anaconda")
+m = Man("Edited on Git")
 m.hello()
 m.goodbye()
